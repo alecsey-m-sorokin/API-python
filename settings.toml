@@ -1,0 +1,17 @@
+[default]
+message = 'This is default settings'
+
+[development]
+message = 'This is development_grey settings'
+stand_url = 'https://develop-partner.perfecttlos.com/'
+stand_url_branch = ''
+#stand_url_branch = 'https://mw-417-partner.perfecttlos.com/'
+node_Currency = 'TRY'
+id_reddy = "PyTestsINFO"
+node_ClientGuid = '6ff1ae90-f35b-4c21-af59-39bfa724941d'
+node_transfer_wallet_ClientGuid = '6ff1ae90-f35b-4c21-af59-39bfa724941d'
+node_PartnerUserId = '666666'
+node_ApiKey = 'OLUFTPWB'
+
+[production]
+message = 'This is production_white settings'
